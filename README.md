@@ -1,5 +1,4 @@
 ### Hello!
-### just a high schooler that likes to code. I'll update this README soon
 
 <!--
 **PipeCruz/PipeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
