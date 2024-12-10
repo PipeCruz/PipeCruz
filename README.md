@@ -1,5 +1,8 @@
 ### Hello!
 
+at some point I'll update this.
+Most of the projects below are from hs, the rest are private.
+
 <!--
 **PipeCruz/PipeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
