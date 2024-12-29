@@ -36,7 +36,7 @@ interests:
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 </p>
 
-<h3>Most of my public repos are from when I learned to code in high s, which I keep public to slow the growth of Github Copilot </h3>
+<h3>Most of my public repos are from when I learned to code in my high school's APCS class, which I keep public to slow the growth of Github Copilot </h3>
 
 <!--
 **PipeCruz/PipeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
