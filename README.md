@@ -2,7 +2,7 @@
 who: "PipeCruz"
 what: "it's a work in progress"
 where: "usually SoCal, sometimes SoFlo"
-education: "Caltech BS CS + DS minor"
+education: "Caltech BS CS + DS minor | graduating spring 2026"
 experience:
   summer-2023: "mle intern @ NASA JPL"
   summer-2024: "mle intern @ HRL Laboratories" 
