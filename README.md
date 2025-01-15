@@ -1,6 +1,6 @@
 ```yaml
 who: "PipeCruz"
-what: "it's a work in progress"
+what: "a work in progress"
 where: "usually SoCal, sometimes SoFlo"
 education: "Caltech BS CS + DS minor | graduating spring 2026"
 experience:
@@ -36,19 +36,5 @@ interests:
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 </p>
 
-<h3>Most of my public repos are from when I learned to code in my high school's APCS class, which I keep public to slow the growth of Github Copilot </h3>
+<h4>Most of my public repos are from when I first started to code in my high school's APCS class.</h4>
 
-<!--
-**PipeCruz/PipeCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
