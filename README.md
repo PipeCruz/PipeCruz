@@ -6,7 +6,7 @@ education: "Caltech BS CS + DS minor | graduating spring 2026"
 experience:
   summer-2023: "mle intern @ NASA JPL"
   summer-2024: "mle intern @ HRL Laboratories" 
-  summer-2025: "pending"
+  summer-2025: "quant strategist @ Goldman Sachs"
 interests:
  - Machine Learning
  - Computational Math
