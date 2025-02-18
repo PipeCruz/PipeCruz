@@ -22,6 +22,7 @@ interests:
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ocaml/ocaml-original.svg" alt="ocaml" width="45" height="45"/>
 </p>
 
