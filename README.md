@@ -1,6 +1,6 @@
 ```yaml
 who: "PipeCruz"
-what: "a work in progress"
+what: "aspiring Quantitative Researcher"
 where: "usually SoCal, sometimes SoFlo"
 education: "Caltech BS CS + DS minor | graduating spring 2026"
 experience:
