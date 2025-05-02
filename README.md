@@ -1,12 +1,12 @@
 ```yaml
 who: "PipeCruz"
-what: "aspiring Quantitative Researcher"
+what: "approximating phenomena"
 where: "usually SoCal, sometimes SoFlo"
 education: "Caltech BS CS + DS minor | graduating spring 2026"
 experience:
   summer-2023: "mle intern @ NASA JPL"
   summer-2024: "mle intern @ HRL Laboratories" 
-  summer-2025: ""
+  summer-2025: "quant analyst intern @ Goldman Sachs"
 interests:
  - Machine Learning
  - Computational Math
