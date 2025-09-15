@@ -37,5 +37,5 @@ interests:
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 </p>
 
-<h4>Most of my public repos are from when I first started to code in my high school's APCS class.</h4>
+<h4>my public repos tend to be a little silly</h4>
 
